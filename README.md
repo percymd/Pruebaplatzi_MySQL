@@ -1,4 +1,4 @@
-# Pruebaplatzi :tw-1f4cb: 📝
+# Pruebaplatzi 📝
 This is a project that I made to practice my queries in MySQL from the terminal.
 It is an artificial library database.
 
